@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+	<customer_account_login>
+        <reference name="content">
+            <block type="core/template" name="loginInfo" template="ambimax/logininfo/logininfo.phtml" before="-"/>
+        </reference>
+	</customer_account_login>
+</layout>

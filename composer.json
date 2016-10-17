@@ -1,0 +1,9 @@
+{
+  "name": "ambimax/magento-module-ambimax-logininfo",
+  "type": "magento-module",
+  "description": "This module adds a block in the login area.",
+  "homepage": "http://www.ambimax.de",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}

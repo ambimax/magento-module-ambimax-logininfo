@@ -1,0 +1,5 @@
+src/app/code/community/Ambimax/LoginInfo                                app/code/community/Ambimax/LoginInfo
+src/app/design/frontend/base/default/layout/ambimax/logininfo.xml       app/design/frontend/base/default/layout/ambimax/logininfo.xml
+src/app/design/frontend/base/default/template/ambimax/logininfo         app/design/frontend/base/default/template/ambimax/logininfo
+src/app/etc/modules/Ambimax_LoginInfo.xml                               app/etc/modules/Ambimax_LoginInfo.xml
+src/app/locale/de_DE/Ambimax_LoginInfo.csv                              app/locale/de_DE/Ambimax_LoginInfo.csv
